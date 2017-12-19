@@ -1,0 +1,19 @@
+{
+  "name": "hedgeye-vrt",
+  "version": "0.0.1",
+  "description": "Visual regression tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahandlerhedgeye/visual-regression-test.git"
+  },
+  "author": "Alexander Handler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahandlerhedgeye/visual-regression-test/issues"
+  },
+  "homepage": "https://github.com/ahandlerhedgeye/visual-regression-test#readme"
+}
