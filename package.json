@@ -4,7 +4,7 @@
   "description": "Visual regression tests",
   "main": "index.js",
   "scripts": {
-    "start": "casperjs test dist/index.js",
+    "start": "casperjs test dist/index.js; exit 0",
     "build": "babel lib -d dist --presets es2015,stage-2",
     "serve": "node dist/index.js"
   },
